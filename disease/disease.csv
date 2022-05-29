@@ -1,0 +1,200 @@
+Blood Pressure,Fever,Diabetes,Vomit,Has Disease?
+high,high,yes,no,no
+high,high,yes,yes,no
+low,mild,no,yes,yes
+high,no fever,yes,no,no
+low,no fever,no,no,yes
+normal,no fever,no,yes,no
+low,high,no,yes,yes
+high,mild,yes,no,no
+high,mild,no,no,no
+normal,no fever,no,no,no
+high,no fever,no,yes,no
+normal,high,no,no,no
+low,high,yes,yes,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+normal,high,yes,no,no
+high,high,no,no,yes
+normal,mild,yes,yes,no
+normal,no fever,no,yes,no
+low,high,no,yes,yes
+high,mild,yes,no,no
+high,no fever,no,no,no
+low,mild,no,no,yes
+high,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+normal,mild,no,no,yes
+normal,no fever,no,no,yes
+normal,no fever,no,yes,no
+low,no fever,no,yes,yes
+high,mild,no,no,no
+high,no fever,no,no,yes
+normal,mild,no,no,yes
+high,high,yes,yes,yes
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,no,yes,no
+high,high,yes,no,no
+high,mild,yes,yes,no
+low,high,yes,no,yes
+low,mild,yes,no,yes
+high,no fever,no,no,yes
+normal,no fever,no,yes,no
+normal,no fever,no,yes,yes
+high,mild,yes,no,no
+high,no fever,no,no,yes
+low,mild,no,no,yes
+normal,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+normal,mild,yes,no,yes
+normal,no fever,no,no,yes
+normal,no fever,no,yes,no
+low,no fever,no,yes,yes
+high,mild,yes,no,no
+normal,no fever,no,no,no
+normal,mild,no,no,yes
+high,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+low,mild,yes,no,yes
+high,no fever,no,no,no
+normal,no fever,no,yes,no
+normal,no fever,no,yes,yes
+high,mild,yes,no,no
+high,high,yes,yes,yes
+low,mild,no,no,yes
+high,no fever,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+normal,mild,no,no,yes
+normal,no fever,no,no,yes
+normal,no fever,no,yes,no
+low,no fever,no,yes,yes
+high,mild,no,no,no
+normal,no fever,no,no,no
+normal,mild,no,no,yes
+high,mild,no,yes,yes
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,no,yes,no
+high,high,yes,no,no
+high,mild,yes,yes,no
+low,high,yes,no,yes
+low,mild,yes,no,yes
+high,no fever,no,no,yes
+normal,no fever,no,yes,no
+normal,no fever,no,yes,yes
+high,mild,yes,no,no
+high,mild,yes,yes,yes
+low,mild,no,no,yes
+high,mild,no,yes,yes
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+normal,mild,yes,no,yes
+normal,no fever,no,no,yes
+normal,no fever,no,yes,no
+low,no fever,no,yes,yes
+high,mild,yes,no,no
+high,no fever,no,no,yes
+normal,mild,no,no,yes
+normal,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+low,mild,yes,no,yes
+high,no fever,no,no,no
+normal,no fever,no,yes,no
+normal,no fever,no,yes,yes
+high,mild,yes,no,no
+high,no fever,no,no,yes
+low,mild,no,no,yes
+normal,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+normal,mild,no,no,yes
+normal,no fever,no,no,yes
+normal,no fever,no,yes,no
+low,no fever,no,yes,yes
+high,mild,no,no,no
+high,no fever,no,no,yes
+normal,mild,no,no,yes
+normal,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,no,yes,no
+high,high,yes,no,no
+high,mild,yes,yes,no
+low,high,yes,no,yes
+low,mild,yes,no,yes
+high,no fever,no,no,no
+normal,no fever,no,yes,no
+normal,no fever,no,yes,yes
+high,mild,yes,no,no
+high,no fever,no,no,no
+low,mild,no,no,no
+high,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+normal,mild,yes,no,no
+normal,no fever,no,no,no
+normal,no fever,no,yes,no
+low,no fever,no,yes,yes
+high,mild,yes,no,no
+high,no fever,no,no,no
+normal,mild,no,no,no
+high,mild,no,yes,no
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+low,mild,yes,no,yes
+high,no fever,no,no,no
+normal,no fever,no,yes,no
+normal,no fever,no,yes,no
+high,mild,yes,no,no
+low,no fever,no,no,yes
+low,high,yes,yes,yes
+high,no fever,no,yes,no
+normal,mild,yes,yes,no
+high,high,no,yes,yes
+normal,mild,yes,yes,no
+high,high,yes,no,no
+high,high,yes,yes,no
+normal,high,yes,yes,yes
